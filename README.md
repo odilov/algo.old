@@ -16,7 +16,7 @@ only, and it is **not** meant to be used for production.*
 * **Searches**
   * `C++` [Linear Search](search/linear-search)
 * **Image Processing**
-  * `Py` [HLS](imgage-processing) - HLS color segmentation
+  * `Py`  [HLS](imgage-processing) - HLS color segmentation
 
 ## Data Structures
 
