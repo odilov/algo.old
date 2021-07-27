@@ -1,4 +1,4 @@
-#  Algorithms and Data Structures <span style ="text-align: right;"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=odilov.algo) </span>
+#  Algorithms and Data Structures <p style ="text-align: right;"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=odilov.algo) </p>
 
 This repository contains examples of many popular algorithms and data structures.
 
