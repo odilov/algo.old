@@ -15,6 +15,7 @@ only, and it is **not** meant to be used for production.
   * `C++` [Palindrome](strings/palindrome) - Check string for palindrome
 * **Searches**
   * `C++` [Linear Search](search/linear-search)
+  * `C++` [Binary Search](search/binary-search)
 * **Image Processing**
   * `.py` [HLS](imgage-processing) - HLS color segmentation
 
