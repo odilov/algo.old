@@ -1,3 +1,4 @@
+/* https://cses.fi/problemset/task/1643 */
 #include <bits/stdc++.h>
 
 #define in freopen( "in.txt", "r", stdin )
@@ -19,6 +20,23 @@ typedef pair <int, int> pi;
 
 int main(){
     ios::sync_with_stdio(0), cin.tie(0), cout.tie(0);
-    // your solution comes here
+
+    int n;
+    cin >> n;
+
+    vll a(n);
+
+    FOR( i, 0 , n )
+        cin >> a[i];
+
+    ll ans = INT_MIN, curr_sum = 0;
+
+    FOR( i, 0, n ){
+        curr_sum = max( a[i] , a[i] + curr_sum );
+        ans = max( ans , curr_sum );
+    }
+
+    cout << ans;
+
     return 0;
 }

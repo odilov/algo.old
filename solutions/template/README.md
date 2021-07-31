@@ -15,7 +15,7 @@ here some descriptions:
 ```
 - reads the input from the file in.txt” and writes the
 output to the file out.txt”. 
-to use these macros add `in; out;` to the beginning of your code 
+To use these macros add `in; out;` to the beginning of your code 
 
 ```C++
 ios::sync_with_stdio(0), cin.tie(0), cout.tie(0);
@@ -58,7 +58,7 @@ v.push_back( make_pair( a, b) ); // v.PB( MP( a, b ) );
 
 int ans = v[i].first + v[i].second; // int ans = v[i].F + v[i].S;
 
-for( int i = 0; i < n; ++i){
+for( int i = 0; i < n; ++i ){
     // do smth
 }
 
