@@ -13,6 +13,8 @@ only, and it is **not** meant to be used for production.
   * `C++` [Binary Exponentiation](math/fast-powering/) - Fast Powering
 * **Strings**
   * `C++` [Palindrome](strings/palindrome) - Check string for palindrome
+* **Sorting**
+  * `C++` [Bubble Sort](sorting/bubble-sort)
 * **Searches**
   * `C++` [Linear Search](search/linear-search)
   * `C++` [Binary Search](search/binary-search)
