@@ -42,7 +42,7 @@
 
 ## Sorting and Searching
 1. [Distinct Numbers](/solutions/CSES/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
-1. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
+1. [Apartments](/solutions/CSES/Sorting%20and%20Searching/Apartments.cpp)
 1. [Ferris Wheel]
 1. [Concert Tickets]
 1. [Restaurant Customers]
