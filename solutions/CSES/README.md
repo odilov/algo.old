@@ -20,7 +20,7 @@
 # Slutions
 
 ## Introductory Problems
-1. [Weird Algorithm](/Introductory Problems/Weird Algorithm.cpp)
+1. [Weird Algorithm](/Introductory%20Problems/Weird%20Algorithm.cpp)
 1. [Missing Number]
 1. [Repetitions]
 1. [Increasing Array]
