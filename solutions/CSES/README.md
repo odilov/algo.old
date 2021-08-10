@@ -20,7 +20,7 @@
 # Slutions
 
 ## Introductory Problems
-1. [Weird Algorithm](/https://github.com/odilov/algo/blob/master/solutions/CSES/Introductory%20Problems/Weird%20Algorithm.cpp)
+1. [Weird Algorithm](/solutions/CSES/Introductory%20Problems/Weird%20Algorithm.cpp)
 1. [Missing Number]
 1. [Repetitions]
 1. [Increasing Array]
@@ -41,14 +41,14 @@
 1. [Grid Paths]
 
 ## Sorting and Searching
-1. [Distinct Numbers](/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
+1. [Distinct Numbers](/solutions/CSES/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
 1. [Apartments](/Sorting%20and%20Searching/Apartments.cpp)
 1. [Ferris Wheel]
 1. [Concert Tickets]
 1. [Restaurant Customers]
 1. [Movie Festival]
 1. [Sum of Two Values]
-1. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20I.cpp)
+1. [Maximum Subarray Sum](/solutions/CSES/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20I.cpp)
 1. [Stick Lengths]
 1. [Missing Coin Sum]
 1. [Collecting Numbers]
