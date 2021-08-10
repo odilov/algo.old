@@ -22,7 +22,7 @@ int main(){
 
     //in; out;
 
-    ll n, m ,k;
+    int n, m ,k;
     cin >> n >> m >> k;
 
     vector <int> a(n) , b( m );
