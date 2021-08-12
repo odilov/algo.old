@@ -5,7 +5,7 @@
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     01/19     |
-| Sorting and Searching |     03/35     |
+| Sorting and Searching |     04/35     |
 | Dynamic Programming   |     00/19     |
 | Graph Algorithms      |     00/36     |
 | Range Queries         |     00/19     |
@@ -15,7 +15,7 @@
 | Geometry              |     00/07     |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |  **004/300**  |
+| **Total**             |  **005/300**  |
 
 # Slutions
 
@@ -43,7 +43,7 @@
 ## Sorting and Searching
 1. [Distinct Numbers](/solutions/CSES/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
 1. [Apartments](/solutions/CSES/Sorting%20and%20Searching/Apartments.cpp)
-1. [Ferris Wheel]
+1. [Ferris Wheel](/solutions/CSES/Sorting%20and%20Searching/Ferris%20Wheel.cpp)
 1. [Concert Tickets]
 1. [Restaurant Customers]
 1. [Movie Festival]
