@@ -4,7 +4,7 @@
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     01/19     |
+| Introductory Problems |     02/19     |
 | Sorting and Searching |     06/35     |
 | Dynamic Programming   |     00/19     |
 | Graph Algorithms      |     00/36     |
@@ -15,13 +15,13 @@
 | Geometry              |     00/07     |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |  **007/300**  |
+| **Total**             |  **008/300**  |
 
 # Slutions
 
 ## Introductory Problems
 1. [Weird Algorithm](/solutions/CSES/Introductory%20Problems/Weird%20Algorithm.cpp)
-1. [Missing Number]
+1. [Missing Number](/solutions/CSES/Introductory%20Problems/Missing%20Number.cpp)
 1. [Repetitions]
 1. [Increasing Array]
 1. [Permutations]
