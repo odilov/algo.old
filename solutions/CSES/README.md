@@ -5,7 +5,7 @@
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     01/19     |
-| Sorting and Searching |     05/35     |
+| Sorting and Searching |     06/35     |
 | Dynamic Programming   |     00/19     |
 | Graph Algorithms      |     00/36     |
 | Range Queries         |     00/19     |
@@ -15,7 +15,7 @@
 | Geometry              |     00/07     |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |  **006/300**  |
+| **Total**             |  **007/300**  |
 
 # Slutions
 
@@ -45,7 +45,7 @@
 1. [Apartments](/solutions/CSES/Sorting%20and%20Searching/Apartments.cpp)
 1. [Ferris Wheel](/solutions/CSES/Sorting%20and%20Searching/Ferris%20Wheel.cpp)
 1. [Concert Tickets](/solutions/CSES/Sorting%20and%20Searching/Concert%20Tickets.cpp)
-1. [Restaurant Customers]
+1. [Restaurant Customers](/solutions/CSES/Sorting%20and%20Searching/Restaurant%20Customers.cpp)
 1. [Movie Festival]
 1. [Sum of Two Values]
 1. [Maximum Subarray Sum](/solutions/CSES/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20I.cpp)
