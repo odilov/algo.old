@@ -22,7 +22,7 @@
 ## Introductory Problems
 1. [Weird Algorithm](/solutions/CSES/Introductory%20Problems/Weird%20Algorithm.cpp)
 1. [Missing Number](/solutions/CSES/Introductory%20Problems/Missing%20Number.cpp)
-1. [Repetitions]
+1. [Repetitions](/solutions/CSES/Introductory%20Problems/Repetitions.cpp)
 1. [Increasing Array]
 1. [Permutations]
 1. [Number Spiral]
@@ -48,7 +48,7 @@
 1. [Restaurant Customers](/solutions/CSES/Sorting%20and%20Searching/Restaurant%20Customers.cpp)
 1. [Movie Festival]
 1. [Sum of Two Values]
-1. [Maximum Subarray Sum](/solutions/CSES/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20I.cpp)
+1. [Maximum Subarray Sum](/solutions/CSES/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
 1. [Stick Lengths]
 1. [Missing Coin Sum]
 1. [Collecting Numbers]
