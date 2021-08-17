@@ -2,7 +2,7 @@
 This template presents some of the features of C++ that
 are useful in competitive programming
 
-here some descriptions:
+here some explanation:
 
 ```C++
 #include <bits/stdc++.h>
