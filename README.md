@@ -32,7 +32,7 @@ only, and it is **not** meant to be used for production.
 
 #  Solutions to Competitive Programming Problems
 
-### [My personal Competitive Programming templates in C++](template)
+### [My personal Competitive Programming Template in C++](template)
 ### [CSES Problem Set Solutions](solutions/CSES)
 ### [Facebook Hacker Cup](solutions/facebook-hacker-cup)
 * **2020**
