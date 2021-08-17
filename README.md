@@ -1,6 +1,6 @@
 #  Algorithms and Data Structures  ![visitors](https://visitor-badge.glitch.me/badge?page_id=odilov.algo)
 
-This repository contains examples of many popular algorithms and data structures.
+This repository contains examples of many popular algorithms, data structures and solutions to competitive programming problems.
 
 Each algorithm and data structure has its own separate README with related explanations and links for further reading.
 
@@ -29,3 +29,11 @@ only, and it is **not** meant to be used for production.
 * **Tree**
   * `C++` [Suffix Tree](tree/suffix-tree)
 
+
+#  Solutions to Competitive Programming Problems
+
+### [My personal Competitive Programming templates in C++](template)
+### [CSES Problem Set Solutions](solutions/CSES)
+### [Facebook Hacker Cup](solutions/facebook-hacker-cup)
+* **2020**
+  * `C++` [Qualification Round](solutions/facebook-hacker-cup/2020/Qualification%20Round) - comming soon

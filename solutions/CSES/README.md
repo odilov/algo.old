@@ -1,4 +1,4 @@
-# CSES Solutions
+# CSES Problem Set Solutions
 
 [CSES Problem Set](https://cses.fi/problemset/list/)
 
