@@ -1,4 +1,4 @@
-# Template
+# Competitive Programming Template
 This template presents some of the features of C++ that
 are useful in competitive programming
 
