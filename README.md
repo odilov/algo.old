@@ -35,5 +35,5 @@ only, and it is **not** meant to be used for production.
 ### [My personal Competitive Programming Template in C++](template)
 ### [CSES Problem Set Solutions](solutions/CSES)
 ### [Facebook Hacker Cup](solutions/facebook-hacker-cup)
-* **2020**
-  * `C++` [Qualification Round](solutions/facebook-hacker-cup/2020/Qualification%20Round) - comming soon
+* **2021**
+  * `C++` [Qualification Round](solutions/facebook-hacker-cup/2021/Qualification%20Round) 4 / 5 tasks
