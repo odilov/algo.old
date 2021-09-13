@@ -1,4 +1,4 @@
-# Facebook Hacker Cup2021 Round 1
+# Facebook Hacker Cup 2021 Round 1
 
 3 / 5 task solved ( 1 failed final tests )
 

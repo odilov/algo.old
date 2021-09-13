@@ -1,4 +1,4 @@
-# Facebook Hacker Cup2021 Qualification Round
+# Facebook Hacker Cup 2021 Qualification Round
 
 4 / 5 task solved
 
