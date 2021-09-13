@@ -37,3 +37,4 @@ only, and it is **not** meant to be used for production.
 ### [Facebook Hacker Cup](solutions/facebook-hacker-cup)
 * **2021**
   * `C++` [Qualification Round](solutions/facebook-hacker-cup/2021/Qualification%20Round) 4 / 5 tasks
+  * `C++` [Round 1](solutions/facebook-hacker-cup/2021/Round%201) 3 / 5 tasks ( 1 failed final tests )
