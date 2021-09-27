@@ -17,6 +17,10 @@ typedef vector <int> vi;
 typedef vector <long long> vll;
 typedef pair <int, int> pi;
 
+bool isVowel( char c ){
+    return ( 0x208222 >> ( c & 0x1f ) ) & 1;
+}
+
 int main(){
     ios::sync_with_stdio(0), cin.tie(0), cout.tie(0);
     // your solution comes here
