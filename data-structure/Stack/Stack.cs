@@ -2,10 +2,17 @@
 
 public class Stack<T>
 {
-    private readonly T[] _item;
-    private int _index = -1;
-    public Stack() => _item = new T[10];
-    public int Count => _index + 1;
-    public void Push(T p0) => _item[++_index] = p0;
-    public T Pop() => _item[_index--];
+    private int _top = -1;
+    private readonly T[] _stack;
+    private int _capacity;
+    public Stack(int capacity = 100)
+    {
+        _capacity = capacity;
+        _stack = new T[capacity];
+    }
+    public void Push(T e) => _stack[++_top] = e;
+    public T Pop() => _stack[_top--];
+    
+    public int Size => _top + 1;
+    public bool IsEmpty => _top == -1;
 }
