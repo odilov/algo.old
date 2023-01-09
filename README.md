@@ -23,6 +23,8 @@ only, and it is **not** meant to be used for production.
 
 ## Data Structures
 
+* **Stack**
+  * `C#` [Construction](data-structure/Stack) - stack
 * **Trie**
   * `C++` [Construction](data-structure/trie/construction) - trie construction
   * `C++` [Trie](data-structure/trie/search) - search in trie
