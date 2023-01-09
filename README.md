@@ -10,24 +10,24 @@ only, and it is **not** meant to be used for production.
 ### Algorithms
 
 * **Math**
-  * `C++` [Binary Exponentiation](math/fast-powering/) - Fast Powering
+  * `C++` [Binary Exponentiation](algo/math/fast-powering/) - Fast Powering
 * **Strings**
-  * `C++` [Palindrome](strings/palindrome) - Check string for palindrome
+  * `C++` [Palindrome](algo/strings/palindrome) - Check string for palindrome
 * **Sorting**
-  * `C++` [Bubble Sort](sorting/bubble-sort)
+  * `C++` [Bubble Sort](algo/sorting/bubble-sort)
 * **Searches**
-  * `C++` [Linear Search](search/linear-search)
-  * `C++` [Binary Search](search/binary-search)
+  * `C++` [Linear Search](algo/search/linear-search)
+  * `C++` [Binary Search](algo/search/binary-search)
 * **Image Processing**
   * `.py` [HLS](imgage-processing) - HLS color segmentation
 
 ## Data Structures
 
 * **Trie**
-  * `C++` [Construction](trie/construction) - trie construction
-  * `C++` [Trie](trie/search) - search in trie
+  * `C++` [Construction](data-structure/trie/construction) - trie construction
+  * `C++` [Trie](data-structure/trie/search) - search in trie
 * **Tree**
-  * `C++` [Suffix Tree](tree/suffix-tree)
+  * `C++` [Suffix Tree](data-structure/tree/suffix-tree)
 
 
 #  Solutions to Competitive Programming Problems
